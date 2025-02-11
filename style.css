@@ -1,0 +1,39 @@
+.navbar-toggler-icon {
+    filter: invert(1);
+}
+
+.btn-Resume {
+    background-color: hsl(192, 100%, 49%) !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #00FFFF !important;
+    /* Change color when hovered */
+}
+
+.banner-img {
+    width: 298px;
+    height: 455.27px;
+}
+
+.banner-title {
+    color: #00FFFF;
+}
+
+.icon-clr {
+    color: #00FFFF;
+    width: 31px;
+    height: 32px
+}
+
+::placeholder {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.send-btn {
+    color: #00FFFF !important;
+}
+
+.border-clr {
+    border: rgb(124, 122, 122) 1px solid !important;
+}
